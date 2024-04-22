@@ -6,9 +6,10 @@ Features:
 
 Endless Entertainment: Enjoy a continuous stream of jokes to keep you entertained for hours.
 Share the Fun: Easily share your favorite jokes with friends and family.
-😂😂
+
 
 Install and pin our JokeJack extension today and let the laughter begin!
+😂😂
 
 # Installation
 To install the JokeJack Extension, follow these simple steps:
