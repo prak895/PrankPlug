@@ -5,6 +5,7 @@ Add some laughter to your browsing experience with our JokeJack extension! Never
 Features:
 
 Endless Entertainment: Enjoy a continuous stream of jokes to keep you entertained for hours.
+
 Share the Fun: Easily share your favorite jokes with friends and family.
 
 
